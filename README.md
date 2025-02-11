@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 @UniUD<br><br>🌱 I’m currently learning HTML, JS and CSS<br><br>💬 discord: clouqs<br><br>⚡ I have a profile on TryHackMe and HackTheBox
+🔭 @UniUD<br><br>🌱 I’m currently learning HTML, JS and CSS<br><br>💬 discord: clouqs - feel free to add me ;)<br><br>⚡ I have a profile on TryHackMe and HackTheBox
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/299160564771454978) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bulligan_)
