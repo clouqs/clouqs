@@ -1,5 +1,5 @@
 # About Me:
-🔭 @UniUD<br><br>Currently focused on Reverse Engineering (Hardware and Software) and C++ developing<br><br>💬 discord: clouqs - feel free to add me ;)<br><br>⚡ I have a profile on TryHackMe, HackTheBox and GuidedHacking
+🔭 @UniUD<br><br> * Currently focused on Reverse Engineering (Hardware and Software) and C++ developing<br><br> * discord: clouqs - feel free to add me ;)<br><br> * I have a profile on TryHackMe, HackTheBox and GuidedHacking
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/299160564771454978) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bulligan_)
