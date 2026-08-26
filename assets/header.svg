@@ -1,4 +1,4 @@
-<svg width="900" height="428" viewBox="0 0 900 428" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="0xclouqs">
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="0xclouqs">
   <defs>
     <clipPath id="frame"><rect x="0" y="0" width="900" height="200" rx="10"/></clipPath>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
@@ -7,7 +7,7 @@
       <stop offset="1" stop-color="#0d1117" stop-opacity="1"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="428" fill="#0d1117" rx="10"/>
+  <rect width="900" height="200" fill="#0d1117" rx="10"/>
   <g clip-path="url(#frame)">
     <g transform="translate(9.8,0)">
       <animateTransform attributeName="transform" type="translate" additive="sum"
@@ -212,34 +212,5 @@
     </text>
   </g>
 
-  <rect x="0.5" y="0.5" width="899" height="427" rx="10" fill="none" stroke="#2724db" stroke-opacity="0.35"/>
-
-  <line x1="36" y1="200" x2="864" y2="200" stroke="#2724db" stroke-opacity="0.28"/>
-
-  <g font-family="Consolas, ui-monospace, monospace" font-size="16" font-weight="600" text-anchor="middle">
-    <text x="450" y="230" fill="#2724db">
-      root@kernel:~# whoami
-      <animate attributeName="opacity" values="1;1;0;0;0;0" keyTimes="0;0.28;0.33;0.61;0.66;1" dur="8.4s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="230" fill="#8b7bff">
-      0xclouqs — access granted
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.61;0.66;1" dur="8.4s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="230" fill="#2724db">
-      reverse engineering // kernel internals
-      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.71;0.96;1" dur="8.4s" repeatCount="indefinite"/>
-    </text>
-  </g>
-
-  <line x1="36" y1="252" x2="864" y2="252" stroke="#2724db" stroke-opacity="0.18"/>
-
-  <g font-family="Consolas, ui-monospace, monospace" font-size="15">
-    <text x="48" y="286" fill="#2724db">$ whoami</text>
-    <text x="72" y="310" fill="#c9d1d9">0xclouqs — clouqs</text>
-    <text x="48" y="346" fill="#2724db">$ focus</text>
-    <text x="72" y="370" fill="#c9d1d9">reverse engineering — hardware &amp; software</text>
-    <text x="72" y="392" fill="#c9d1d9">windows / linux kernel internals</text>
-    <text x="72" y="414" fill="#c9d1d9">driver exploitation &amp; BYOVD research<tspan fill="#8b7bff">
-      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/> ▍</tspan></text>
-  </g>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="10" fill="none" stroke="#2724db" stroke-opacity="0.35"/>
 </svg>

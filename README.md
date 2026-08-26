@@ -2,6 +2,21 @@
   <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/header.svg" alt="0xclouqs"/>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=2724DB&center=true&vCenter=true&width=560&lines=root%40kernel%3A~%23+whoami;0xclouqs+-+access+granted;reverse+engineering+%2F%2F+kernel+internals" alt="typing svg" />
+</div>
+
+<br/>
+
+```
+$ whoami
+  0xclouqs — clouqs
+$ focus
+  reverse engineering — hardware & software
+  windows / linux kernel internals
+  driver exploitation & BYOVD research
+```
+
 <br/>
 
 <p align="center">
