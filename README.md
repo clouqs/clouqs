@@ -18,11 +18,16 @@ $ focus
 
 <br/>
 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/clouqs/clouqs/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 </p>
 
 <br/>
+<p align="center">
+<a href="https://discord.com/users/clouqs"><img src="https://img.shields.io/badge/Discord-clouqs-0d1117?style=for-the-badge&logo=discord&logoColor=2724DB&labelColor=0d1117" alt="Discord"/></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/clouqs"><img src="https://img.shields.io/badge/GitHub-clouqs-0d1117?style=for-the-badge&logo=github&logoColor=2724DB&labelColor=0d1117" alt="GitHub"/></a>
