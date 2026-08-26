@@ -49,7 +49,7 @@ $ focus
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=clouqs&hide_border=true&background=0D1117&stroke=2724DB&ring=2724DB&fire=2724DB&currStreakLabel=2724DB" alt="GitHub streak"/>
+  <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/github-streak.svg" alt="GitHub streak"/>
 </p>
 
 <br/>
