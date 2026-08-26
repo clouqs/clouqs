@@ -27,8 +27,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SNAKE_TOKEN: ${{ secrets.SNAKE_TOKEN }}
           SNAKE_USER: clouqs
-          SNAKE_FROM: "2025-01-01"
-          SNAKE_TO: "2026-08-26"
         run: |
           npm install --no-save generate-snake-animation@3.5.0
           node .github/scripts/generate-snake.mjs

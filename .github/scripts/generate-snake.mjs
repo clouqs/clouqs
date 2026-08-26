@@ -3,8 +3,10 @@ import path from "node:path";
 
 const USER = process.env.SNAKE_USER || "clouqs";
 const TOKEN = process.env.SNAKE_TOKEN || process.env.GITHUB_TOKEN;
-const FROM = process.env.SNAKE_FROM || "2025-01-01";
 const TO = process.env.SNAKE_TO || new Date().toISOString().slice(0, 10);
+const FROM =
+  process.env.SNAKE_FROM ||
+  new Date(Date.now() - 365 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
 
 if (!TOKEN) throw new Error("Missing GITHUB_TOKEN");
 
