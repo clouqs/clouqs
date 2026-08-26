@@ -48,10 +48,6 @@ $ focus
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=clouqs&layout=compact&hide_border=true&bg_color=0d1117&title_color=2724DB&text_color=c9d1d9" height="165" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/github-streak.svg" alt="GitHub streak"/>
-</p>
-
 <br/>
 
 <p align="center">
