@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=2724DB&center=true&vCenter=true&width=560&lines=root%40kernel%3A~%23+whoami;0xclouqs+-+access+granted;reverse+engineering+%2F%2F+kernel+internals" alt="typing svg" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3200&pause=1400&color=2724DB&center=true&vCenter=true&width=720&lines=root%40kernel%3A~%23+whoami;if+something%27s+too+hard+-+use+the+Ostrich%27s+algorithm;reverse+engineering+%2F%2F+kernel+internals" alt="typing svg" />
 </div>
 
 <br/>
@@ -42,8 +42,7 @@ $ focus
 <br/>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=clouqs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2724DB&icon_color=2724DB&text_color=c9d1d9&ring_color=2724DB" height="165" alt="GitHub stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=clouqs&layout=compact&hide_border=true&bg_color=0d1117&title_color=2724DB&text_color=c9d1d9" height="165" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/night-walk.jpg" width="280" alt=""/>
 </p>
 
 <br/>
