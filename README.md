@@ -9,8 +9,6 @@
 <br/>
 
 ```
-$ whoami
-  0xclouqs — clouqs
 $ focus
   reverse engineering — hardware & software
   windows / linux kernel internals
@@ -59,7 +57,6 @@ $ focus
 <p align="center">
   <a href="https://github.com/clouqs"><img src="https://img.shields.io/badge/GitHub-clouqs-0d1117?style=for-the-badge&logo=github&logoColor=2724DB&labelColor=0d1117" alt="GitHub"/></a>
   <a href="https://x.com/mbllgn"><img src="https://img.shields.io/badge/X-mbllgn-0d1117?style=for-the-badge&logo=x&logoColor=2724DB&labelColor=0d1117" alt="X"/></a>
-  <a href="https://tryhackme.com/p/clouqs"><img src="https://img.shields.io/badge/TryHackMe-clouqs-0d1117?style=for-the-badge&logo=tryhackme&logoColor=2724DB&labelColor=0d1117" alt="TryHackMe"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2724db,100:0d1117&height=3" alt=""/>
