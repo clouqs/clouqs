@@ -9,8 +9,6 @@
 <br/>
 
 ```
-$ whoami
-  0xclouqs — clouqs
 $ focus
   reverse engineering — hardware & software
   windows / linux kernel internals
