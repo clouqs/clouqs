@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="0xclouqs" width="100%"/>
+  <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/header.svg" alt="0xclouqs"/>
 </p>
 
 <div align="center">
@@ -55,11 +55,7 @@ $ focus
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clouqs/clouqs/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clouqs/clouqs/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/clouqs/clouqs/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/clouqs/clouqs/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake"/>
 </p>
 
 <br/>
