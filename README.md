@@ -16,10 +16,6 @@ $ focus
 ```
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/clouqs/clouqs/main/assets/night-walk.jpg" width="280" alt=""/>
-</p>
-
 <br/>
 
 <p align="center">
