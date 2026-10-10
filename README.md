@@ -11,6 +11,7 @@
 ```
 $ focus
   reverse engineering — hardware & software
+  game hacking (external, internal and DMA)
   windows / linux kernel internals
   driver exploitation & BYOVD research
 ```
